@@ -1,6 +1,6 @@
 import re
 
-with open("input_1.1.txt", "r") as calibrationValues:
+with open("1\input_1.1.txt", "r") as calibrationValues:
 	calValuesLines = calibrationValues.readlines()
 
 	sum = 0
